@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <img width="200" src="https://github.com/Cesar-Carllos/jokenpo/assets/127888243/9dfdc0ee-8565-4914-9281-e57ad4a07db3">
+    <img width="350" src="https://github.com/Cesar-Carllos/jokenpo/assets/127888243/9dfdc0ee-8565-4914-9281-e57ad4a07db3">
   </p>
 
 
