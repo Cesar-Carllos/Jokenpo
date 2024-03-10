@@ -2,10 +2,8 @@
 
 
   <p align="center">
-    <img src="https://img.shields.io/github/languages/top/Cesar-Carllos/jokenpo
-    " alt="GitHub top language" />
-    <img src="https://img.shields.io/github/languages/count/Cesar-Carllos/jokenpo
-    " alt="GitHub language count" />
+    <img src="https://img.shields.io/github/languages/top/Cesar-Carllos/jokenpo" alt="GitHub top language" />
+    <img src="https://img.shields.io/github/languages/count/Cesar-Carllos/jokenpo" alt="GitHub language count" />
     <img src="https://img.shields.io/github/repo-size/Cesar-Carllos/jokenpo"/>
   </p>
 
